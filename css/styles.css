@@ -1,0 +1,22 @@
+body {
+  background-color: rgba(207, 180, 90, 0.548);
+}
+p,
+h1 {
+  text-align: center;
+}
+
+.links {
+  text-align: center;
+}
+
+a {
+  padding: 20px;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 15px;
+  display: block;
+  margin: 30px auto;
+}
